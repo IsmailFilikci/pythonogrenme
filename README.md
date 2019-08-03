@@ -1,0 +1,2 @@
+# pythonogrenme
+python öğrenme
